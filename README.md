@@ -5,9 +5,12 @@ Você foi contratado para desenvolver um pequeno sistema de simulação de anima
 
 Objetivos:<br>
 - Criar uma superclasse Animal.<br>
-- Criar subclasses como Cachorro, Gato e Vaca, cada uma sobrescrevendo o método fazerSom().
-<br>
-- Demonstrar polimorfismo em uma classe principal, usando um array de Animal.
+- Criar subclasses como Cachorro, Gato e Vaca, cada uma sobrescrevendo o método fazerSom().<br>
+- Demonstrar polimorfismo em uma classe principal, usando um array de Animal.<br>
+
+<br><br>
+ O foco principal do exercício é entender como diferentes classes se comportam de maneira diferente usando um mesmo método (fazerSom). Isso é o que chamamos de polimorfismo.
+ <br><br>
 
 Resolução - Saída do Console:
 
